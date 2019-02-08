@@ -1,2 +1,4 @@
-# yelp-dataset
-Yelp dataset for testing guzzle functionality
+# Yelp Dataset
+Yelp dataset for testing guzzle functionality. 
+
+@Author: Hemanta Banerjee
