@@ -1,0 +1,7 @@
+https://justanalytics.blob.core.windows.net/yelp-reviews/business-reduced.json
+https://justanalytics.blob.core.windows.net/yelp-reviews/business.json
+https://justanalytics.blob.core.windows.net/yelp-reviews/checkin.json
+https://justanalytics.blob.core.windows.net/yelp-reviews/photo.json
+https://justanalytics.blob.core.windows.net/yelp-reviews/review.json
+https://justanalytics.blob.core.windows.net/yelp-reviews/tip.json
+https://justanalytics.blob.core.windows.net/yelp-reviews/user.json
